@@ -4,10 +4,15 @@ You can use the [editor on GitHub](https://github.com/emanolorb/emanolorb.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Code Wars ranking
+<a href="https://www.codewars.com/users/emanolorb">
+<img src="https://www.codewars.com/users/emanolorb/badges/large"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+ </a>
 
-[Image](https://www.codewars.com/users/emanolorb/badges/large)
-[Code Wars](https://www.codewars.com/users/emanolorb)
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
