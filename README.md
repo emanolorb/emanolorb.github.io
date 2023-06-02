@@ -6,19 +6,19 @@
 <br>
 
 <h2 align="center">
-    Skills
+    High-level Skills
 </h2>
 
 <p>
     <div align="center">
         <img
-            src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=282828">
+            src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=282828&style=flat">
         <img
-            src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+            src="https://img.shields.io/badge/-Django-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=28282&style=flat">
         <img
-            src="https://img.shields.io/badge/-postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828">
+            src="https://img.shields.io/badge/-FastAPI-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=28282&style=flat">
         <img
-            src="https://img.shields.io/badge/-mysql-yellow?style=for-the-badge&logo=mysql&logoColor=yellow&labelColor=282828">
+            src="https://img.shields.io/badge/-postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828&style=flat">
     </div>
     <br />
 
@@ -44,38 +44,25 @@ me = TechEnthusiast()
 ## 📊 Github Stats (Expand to View)
 
 
-<details>
-    <summary><b>💻 GitHub Profile Stats</b></summary>
-    <br />
-    <p align="center">
-        <a href="https://github.com/emanolorb/github-readme-stats"><img alt="Emmanuel's Github Stats"
-                src="https://github-readme-stats.vercel.app/api?username=emanolorb&show_icons=true&count_private=true&theme=gruvbox"
-                height="192px" /></a>
-        <br />
-        &nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanolorb&show_icons=true&locale=en&layout=compact&theme=gruvbox"
-            alt="emanolorb" height="192px" />
-    </p>
-</details>
-
-
-<details>
-    <summary><b>⚡ Recent GitHub Activity</b></summary>
-    <br />
-        <a href="https://github.com/emanolorb">
-            <img alt="Emmanuel's Activity Graph"
-                src="https://activity-graph.herokuapp.com/graph?username=emanolorb&custom_title=Emmanuel%20Contribution%20Graph&theme=gruvbox" />
-        </a>
-    <br />
-
-</details>
-
+<b>💻 GitHub Profile Stats</b>
 <br />
+<p align="center">
+    <a href="https://github.com/emanolorb/github-readme-stats"><img alt="Emmanuel's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=emanolorb&show_icons=true&count_private=true&theme=gruvbox"
+            height="192px" /></a>
+    <br />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanolorb&show_icons=true&locale=en&layout=compact&theme=gruvbox"
+        alt="emanolorb" height="192px" />
+</p>
+
+## 🎧 Lo que estoy escuchando
+
+[![Spotify](https://novatorem-tau.vercel.app/api/spotify)](https://open.spotify.com/user/1278296520)
 
 ------
 
 Credits:
 [emanolorb](https://github.com/emanolorb)
 [github-readme-stats](https://github-readme-stats.vercel.app)
-[activity-graph](https://activity-graph.herokuapp.com)
 [img.shields.io](https://img.shields.io)
